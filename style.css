@@ -1,0 +1,167 @@
+body {
+    background-image: url("https://www.desktopbackground.org/download/o/2012/03/31/367081_1920x1200px-cool-colors_1920x1080_h.jpg");
+    background-size: 150vw 150vh;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* section-1 */
+.marksheet h1 {
+    text-align: center;
+    padding-top: 50px;
+    font-weight: bold;
+    font-size: 90px;
+    font-family: 'Bree Serif', serif;
+    text-decoration: underline;
+    color: white;
+}
+
+/* section-2 */
+#name {
+    padding-left: 350px;
+    padding-top: 30px;
+    font-size: 20px;
+    font-family: 'Baloo Bhai 2', cursive;
+    color: white;
+}
+
+.englishhhhh ::placeholder {
+    color: white;
+}
+
+#names {
+    position: relative;
+    left: 78px;
+    border: none;
+    text-decoration: underline;
+    font-size: 20px;
+    font-family: 'Baloo Bhai 2', cursive;
+    background-color: black;
+}
+
+#marks {
+    padding-left: 350px;
+    padding-top: 30px;
+    font-size: 20px;
+    font-family: 'Baloo Bhai 2', cursive;
+    color: white;
+}
+
+#mark {
+    position: relative;
+    left: 247px;
+    border: none;
+    text-decoration: underline;
+    font-size: 20px;
+    font-family: 'Baloo Bhai 2', cursive;
+    background-color: black;
+}
+
+#math {
+    padding-left: 350px;
+    padding-top: 30px;
+    font-size: 20px;
+    font-family: 'Baloo Bhai 2', cursive;
+    color: white;
+}
+
+#mat {
+    position: relative;
+    left: 175px;
+    border: none;
+    text-decoration: underline;
+    font-size: 20px;
+    font-family: 'Baloo Bhai 2', cursive;
+    background-color: black;
+}
+
+#physics {
+    padding-left: 350px;
+    padding-top: 30px;
+    font-size: 20px;
+    font-family: 'Baloo Bhai 2', cursive;
+    color: white;
+}
+
+#physic {
+    position: relative;
+    left: 167px;
+    border: none;
+    text-decoration: underline;
+    font-size: 20px;
+    font-family: 'Baloo Bhai 2', cursive;
+    background-color: black;
+}
+
+#urdu {
+    padding-left: 350px;
+    padding-top: 30px;
+    font-size: 20px;
+    font-family: 'Baloo Bhai 2', cursive;
+    color: white;
+}
+
+#urd {
+    position: relative;
+    left: 190px;
+    border: none;
+    text-decoration: underline;
+    font-size: 20px;
+    font-family: 'Baloo Bhai 2', cursive;
+    background-color: black;
+}
+
+#english {
+    padding-left: 350px;
+    padding-top: 30px;
+    font-size: 20px;
+    font-family: 'Baloo Bhai 2', cursive;
+    color: white;
+}
+
+#englis {
+    position: relative;
+    left: 170px;
+    border: none;
+    text-decoration: underline;
+    font-size: 20px;
+    font-family: 'Baloo Bhai 2', cursive;
+    background-color: black;
+}
+
+.englishhhhh button {
+    position: relative;
+    top: 80px;
+    right: 290px;
+    width: 250px;
+    background-color: black;
+    color: white;
+}
+
+.englishhhhh button:hover {
+    background-color: brown !important;
+}
+
+/* section-3 */
+.section-4 {
+    height: 250px;
+}
+
+.marksheets h1 {
+    text-align: center;
+    padding-top: 100px;
+    font-weight: bold;
+    font-size: 90px;
+    font-family: 'Bree Serif', serif;
+    text-decoration: underline;
+    color: white;
+}
+
+.Percentages h6 {
+    font-family: 'Baloo Bhai 2', cursive;
+    padding-left: 350px;
+    color: wheat;
+}
